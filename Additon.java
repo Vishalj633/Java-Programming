@@ -1,6 +1,7 @@
 
 public class Additon {
-	
+	// Addition of two numbers.
+	//Addition of two strings.
 	public static void main(String[] args) {
 		
 		int a, b, add;
